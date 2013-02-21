@@ -1,0 +1,40 @@
+.container {
+    margin-top: 50px;
+    margin-left: 20%;
+    height: 500px;
+    width: 800px; 
+    padding: 20px;
+    
+
+    -webkit-box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.4); 
+    -moz-box-shadow: 0px 1px 6px rgba(23, 69, 88, .5);
+    
+
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 7px; 
+    border-radius: 7px;
+}
+input {
+    width:100%;
+}
+.testo {
+    height: 30px;
+    margin-bottom: 3px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.lyrics {
+    margin-top: 20px;
+    width: 50%;
+    margin-left: 25%;
+}
+h2 {
+    text-align: center;
+}
+.error {
+    text-align: left;
+    color: red;
+}
+body {
+    background: #69F;
+}
