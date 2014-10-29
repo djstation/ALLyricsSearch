@@ -3,7 +3,7 @@ ALLyricsSearch
 
 A simple Lyrics Search using MusiXMatch APIs.
 
-DEMO HERE ---> http://www.leonardoallegrini.it/project/allyricssearch/
+DEMO HERE ---> http://www.leonardoallegrini.it/projects/allyricssearch/
 
 HOW TO CONFIGURE IT
 ====================
